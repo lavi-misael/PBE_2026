@@ -1,10 +1,7 @@
-<<?php 
-    $dias = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"]
-    
-    foreach ($dia as $dias){
-        echo "Dia $dias <br>"
-    
-    }
-
-
->?
+<?php 
+    $dia = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"];
+        foreach ($dia as $dias){
+        echo "dia:". $dias;
+        echo "<br>";
+        }
+?>

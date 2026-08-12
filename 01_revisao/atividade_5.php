@@ -6,6 +6,6 @@
         $soma += $numero;
     }
 
-    echo "soma =" . $soma;
+    echo "soma = " . $soma;
         
 ?>
