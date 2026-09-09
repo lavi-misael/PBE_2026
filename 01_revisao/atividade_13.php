@@ -11,3 +11,4 @@ $cadastro = [
     echo "Telefone: " . $cadastro ["telefone"]. "<br>";
     echo "Endereço: " . $cadastro ["endereco"]."<br>";
 ?>
+

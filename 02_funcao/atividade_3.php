@@ -4,7 +4,7 @@
         $triplo = $numero *3; 
         $quadrado = $numero * $numero;
 
-        if ($numero += 0){
+        if ($numero >= 0){
         $situacao = "Positivo";
         }
         else{
