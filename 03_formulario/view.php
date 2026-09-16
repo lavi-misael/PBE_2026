@@ -7,8 +7,8 @@
 </head>
 <body>
     <form action="processa.php" method = "POST">
-        <label for="">Nome:</label>
-        <input type="text" name= "nome">
+        <label for="">Numero:</label>
+        <input type="text" name= "numero">
         <input type="text" name= "sobrenome">
         <br><br>
         <button type="submit">Enviar</button>
