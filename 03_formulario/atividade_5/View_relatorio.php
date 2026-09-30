@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Atividade 5</title>
+    <title>Atividade</title>
 </head>
 <body>
     <h1>Resultado do Aluno</h1>
@@ -22,7 +22,7 @@
         elseif($imc <=18.5 ):?>
             <h3>Abaixo do peso</h3>
     <?php
-        else:?>
+        else?>
             <h3>peso normal</h3>
     <?php endif ?>
     
