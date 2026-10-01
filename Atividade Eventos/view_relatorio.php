@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>ONVIBE - Relatório</title>
+    <title>ONVIBE</title>
 </head>
 
 <body style="background-color: #f8f0ff; text-align: center;">
