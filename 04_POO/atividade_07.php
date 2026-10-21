@@ -10,7 +10,7 @@
         }
 
         public function depositar($valor){
-            $this->saldo += $valord;
+            $this->saldo += $valor;
         }
 
         public function sacar($valor){
